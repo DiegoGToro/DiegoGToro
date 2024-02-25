@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1 align="center">¡Hola! Soy <a href="">Diego García</a> 🤖</h1>
-</div>}
+</div>
 
 
 ## Sobre mi
