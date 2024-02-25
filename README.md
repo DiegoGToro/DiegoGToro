@@ -14,22 +14,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>| 👨🏽‍💻 Estudiante de Ingeniería Informática | 
+  😜 PCJIC | ⚛️ Desarrollador Backend en Formación |
+  👽 Video Juegos | </h2>
+
 <div align="center">
-<h1 align="center">Hola, soy <a href="">Diego García</a> ✌️</h1>
+<h1 align="center">Hola, soy <a href="">Diego García</a> 🤖</h1>
 </div>
 <img src="">
 
+## Sobre mi
 
-## Sobre mi<
-<h2>Me gusta trabajar en equipo, amante de la
-tecnología y el desarrollo de software en
-diversos lenguajes. Me considero una
-persona organizada y proactiva de rapida
-adaptación.
-</h2>
+<h2>Amante de las nuevas tecnologias y el desarrollo de software. Me gustan los retos innovadores y aprender de ellos 🛸 Fascinado por el desarrollo de los videojuegos 🎮</h2>
 <br>
 
-## Proyectos *bombitas*
+#### Languages
+
+![C/C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+
+
+#### Tools and Technologies
+
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
