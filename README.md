@@ -12,25 +12,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h2>| 👨🏽‍💻 Estudiante de Ingeniería Informática | 
   😜 PCJIC | ⚛️ Desarrollador Backend en Formación |
   👽 Video Juegos | </h2>
 
-<div align="center">
-<h1 align="center">Hola, soy <a href="">Diego García</a> 🤖</h1>
-</div>
+
 <img src="">
+-->
+
+<div align="center">
+<h1 align="center">¡Hola! Soy <a href="">Diego García</a> 🤖</h1>
+</div>}
+
 
 ## Sobre mi
 
-<h2>Amante de las nuevas tecnologias y el desarrollo de software. Me gustan los retos innovadores y aprender de ellos 🛸 Fascinado por el desarrollo de los videojuegos 🎮</h2>
+
+<h3>Amante de las nuevas tecnologias y el desarrollo de software. Me gustan los retos innovadores y aprender de ellos 🛸 Fascinado por el desarrollo de los videojuegos 🎮</h3>
 <br>
 
 #### Languages
 
-![C/C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
