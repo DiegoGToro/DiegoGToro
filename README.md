@@ -60,7 +60,7 @@ Backend robusto con manejo de base de datos y lógica empresarial.
 🔹 **NestJS Ventas API**  
 API REST enfocada en arquitectura limpia y escalabilidad.
 
-🔹 *(Próximamente)* Motor de videojuegos / proyectos low-level
+🔹 *(Próximamente)* NestJS Ventas WEB
 
 ---
 
@@ -68,9 +68,9 @@ API REST enfocada en arquitectura limpia y escalabilidad.
 
 - Dominar Linux a nivel avanzado 🐧  
 - Entender el funcionamiento del kernel  
-- Aprender Vulkan / gráficos de bajo nivel  
 - Especializarme en backend escalable  
-- Desarrollar proyectos propios sólidos  
+- Desarrollar proyectos propios sólidos
+- Creación de servidores Minecraft
 
 ---
 
