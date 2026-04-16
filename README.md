@@ -1,63 +1,87 @@
-
-<!--
-**DiegoGToro/DiegoGToro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<h2>| 👨🏽‍💻 Estudiante de Ingeniería Informática | 
-  😜 PCJIC | ⚛️ Desarrollador Backend en Formación |
-  👽 Video Juegos | </h2>
-
-
-<img src="">
--->
-
-<div align="center">
-<h1 align="center">¡Hola! Soy <a href="">Diego García</a> 🤖</h1>
-</div>
-
-
-## Sobre mi
-
-
-<h3>Amante de las nuevas tecnologias y el desarrollo de software. Me gustan los retos innovadores y aprender de ellos 🛸 Fascinado por el desarrollo de los videojuegos 🎮</h3>
-<br>
-
-#### Languages
-
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
-
-#### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-
-
-#### Tools and Technologies
-
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">¡Hola! Soy Diego García 👨‍💻</h1>
 
 <p align="center">
-<a href="https://github.com/DiegoGToro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoGToro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoGToro&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  💻 Backend Developer en formación | ⚙️ Apasionado por sistemas | 🎮 Game Dev Enthusiast
 </p>
+
+---
+
+## 🧠 Sobre mí
+
+Soy estudiante de Ingeniería Informática enfocado en el desarrollo backend y el entendimiento profundo de los sistemas.
+
+Me interesa especialmente:
+- 🔧 Cómo funcionan los sistemas operativos (Linux, kernel)
+- ⚡ Desarrollo backend escalable
+- 🎮 Desarrollo de videojuegos
+- 🔐 Seguridad informática (pentesting ético)
+
+Siempre estoy buscando aprender cómo funcionan realmente las cosas, no solo usarlas.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 💻 Lenguajes
+- C
+- C++
+- Java
+- Python
+
+### 🗄️ Bases de datos
+- MySQL
+- PostgreSQL
+
+### ⚙️ Tecnologías
+- Linux 🐧
+- Git & GitHub
+- Docker (en progreso)
+- Node.js / NestJS
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoGToro&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGToro&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚧 Proyectos Destacados
+
+🔹 **Sistema de Ventas (Spring Boot)**  
+Backend robusto con manejo de base de datos y lógica empresarial.
+
+🔹 **NestJS Ventas API**  
+API REST enfocada en arquitectura limpia y escalabilidad.
+
+🔹 *(Próximamente)* Motor de videojuegos / proyectos low-level
+
+---
+
+## 📈 Objetivos
+
+- Dominar Linux a nivel avanzado 🐧  
+- Entender el funcionamiento del kernel  
+- Aprender Vulkan / gráficos de bajo nivel  
+- Especializarme en backend escalable  
+- Desarrollar proyectos propios sólidos  
+
+---
+
+## 📫 Contacto
+
+📍 Medellín, Colombia  
+📧 dandygarcia.dgt@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/diegogtoro)
+
+---
+
+## ⚡ Filosofía
+
+> “No me interesa solo usar la tecnología, quiero entenderla desde la raíz.”
